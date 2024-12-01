@@ -1,0 +1,32 @@
+# 빌드 출력 디렉토리
+Debug/
+Release/
+x64/
+build/
+
+# Visual Studio에서 생성되는 불필요한 파일들
+*.obj
+*.exe
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.sdf
+*.log
+*.tlog
+*.tmp
+
+# 사용자 환경 설정 파일
+*.user
+
+# IntelliSense 임시 파일
+*.ipch
+
+# Visual Studio 작업 관련 데이터베이스
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+
+# Visual Studio 임시 작업 디렉토리
+.vs/
